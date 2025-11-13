@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class UsingMathClass{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
-		System.out.print("Enter any number of our choice: ");
+		System.out.print("Enter any number of your choice: ");
 		int num1 = input.nextInt();
 		
-		System.out.print("Enter any number of our choice: ");
+		System.out.print("Enter any number of your choice: ");
 		int num2 = input.nextInt();
 		
 		System.out.print("Enter any number to find the square root: ");
